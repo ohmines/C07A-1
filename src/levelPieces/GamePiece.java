@@ -52,7 +52,7 @@ public abstract class GamePiece implements Drawable {
 	 * @param playerLocation
 	 * @return
 	 */
-	public abstract InteractionResult interact(Drawable [] gameBoard, int playerLocation);
+	public abstract InteractionResult interact(Drawable[] gameBoard, int playerLocation);
 
 	/**
 	 * 

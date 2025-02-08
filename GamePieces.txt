@@ -1,0 +1,5 @@
+1 piece is only Drawable: FlowerPiece
+2 pieces can move: MovingEnemy and RandomMover
+The remaining 4 pieces can't move but interact: AdvancePiece, ObstaclePiece, PricePiece, SniperPiece
+Two pieces interact at a distance: SniperPiece and PricePiece
+Three pieces interact only when on the same square: MovingEnemy, ObstaclePiece, and AdvancePiece

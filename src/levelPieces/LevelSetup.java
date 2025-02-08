@@ -38,7 +38,6 @@ public class LevelSetup {
 	        interactingPieces.add((GamePiece) board[5]); // PrizePiece
 	        interactingPieces.add((GamePiece) board[10]); // ObstaclePiece
 	        interactingPieces.add((GamePiece) board[15]); // MovingEnemy
-	        interactingPieces.add((GamePiece) board[18]); // RandomMover
 	        interactingPieces.add((GamePiece) board[20]); // AdvancePiece
 			
 	        
